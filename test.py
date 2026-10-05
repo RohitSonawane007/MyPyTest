@@ -1,2 +1,2 @@
-for x in rnage (20):
+for x in range (20):
   print("hello")
